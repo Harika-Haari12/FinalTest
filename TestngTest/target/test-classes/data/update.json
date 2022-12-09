@@ -1,0 +1,34 @@
+{
+"Valid":
+{
+"email":"admin@gmail.com",
+"pass":"123456",
+"enter_cat":"potatos",
+"image":"C:\\Users\\HC69847\\Pictures\\Saved Pictures\\photo.jfif"
+},
+"Invalid":
+{
+"enter_cat":"potat123@"
+},
+"Blank":
+{
+"enter_cat":"",
+"image":""
+},
+"more":
+{
+"enter_cat":"fghhhhhhhhhhhhhhhhhhhhhhhhhhhsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajjjjjjjjjjjjj"
+},
+"less":
+{
+"enter_cat":"s"
+},
+"Double_S":
+{
+"enter_cat":"p o t"
+},
+"numbers":
+{
+"enter_cat":"5467"
+}
+},
